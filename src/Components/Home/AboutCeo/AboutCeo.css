@@ -1,0 +1,5 @@
+.Ceo-details{
+    width: 100%;
+    background:linear-gradient(0deg, rgba(31, 30, 29, 0.3), rgba(70, 61, 66, 0.3)),url('../../../Images/Ceo.jpg');
+    background-size: cover;
+}

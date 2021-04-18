@@ -1,0 +1,5 @@
+.header-container{
+    width: 100%;
+    background:linear-gradient(0deg, rgba(20, 17, 19, 0.3), rgba(255, 0, 150, 0.3)),url('../../../Images/Travel.jpg');
+    background-size: cover;
+}
